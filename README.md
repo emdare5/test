@@ -1,4 +1,6 @@
 # test
 
-これははGitHubとGitの練習用リポジトリです。
+\# test
+
+これはGitHubとGitの練習用リポジトリです
 
